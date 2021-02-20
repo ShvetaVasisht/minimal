@@ -8,6 +8,6 @@ layout: default
 
 Sample 1
 
-![RoboHelp](/assets/images/Robo1.JPG)
+![RoboHelp](/assets/img/Robo1.JPG)
 
 [back](./)
