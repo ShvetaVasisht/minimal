@@ -10,6 +10,6 @@ Experience
 
 ###  Samples:
   
-   - [Robohelp](./sample1.md)
+   - [Robohelp](./samples/robo.md)
         
-   - [YAML](./write-yaml.md)
+   - [YAML](./samples/write-yaml.md)
