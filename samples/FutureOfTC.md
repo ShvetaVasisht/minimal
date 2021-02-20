@@ -22,6 +22,6 @@ Technical communication integrates the industrial environment with human life. I
 Transformation and evolution are an inevitable part of progress. Technical communication is bound to evolve with technology. Online help, video tutorials, etc. have become an add-on to print manuals.
 The technical communications field is contributing to other areas such as development, training, marketing, etc. For example, many new writing tools are being developed for use by technical communicators which in turn provide an opportunity for the software industry.
 
-As long as industry, science, and technology are evolving there is always a need for simplifying, documenting, maintaining, and communicating information.  Thus making the future of technical communication  bright. :sparkles:
+As long as industry, science, and technology are evolving there is always a need for simplifying, documenting, maintaining, and communicating information.  Thus making the future of technical communication  bright.
 
 [back](../)
