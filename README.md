@@ -1,3 +1,7 @@
+# Based On 
+
+Forked from [Github Repo](https://github.com/pages-themes/minimal).This repository has been modified for personal use.Please see original repository for making portfolio based on minimal Jekyll theme.
+
 # The Minimal theme
 
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
