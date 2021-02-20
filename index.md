@@ -23,8 +23,8 @@ layout : default
 
 ###  My Work:
   
-   - [Robohelp](./samples/robohelp.md)
+   - [Robohelp - Quick Reference Guide](./samples/robohelp.md)
         
-   - [YAML](./samples/write-yaml.md)
+   - [YAML-Beginner's Guide to get started](./samples/write-yaml.md)
 
    - [Article](./samples/respectful_code_reviews.md)
