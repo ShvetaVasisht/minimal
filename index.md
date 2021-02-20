@@ -4,6 +4,8 @@ layout : default
 
 ### About Me
 
+Learning,simplifying and sharing technical knowledge.
+
 ### Experience
 
 - Contributing to open source knowledge base through Git and Github since January 2021.
