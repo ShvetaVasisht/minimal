@@ -4,10 +4,10 @@ layout: default
 
 ## Welcome to another page
 
-[back](./)
+[back](../)
 
 Sample 1
 
 ![RoboHelp](/assets/img/Robo1.JPG)
 
-[back](./)
+[back](../)
