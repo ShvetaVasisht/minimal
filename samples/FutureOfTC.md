@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[back](../)
+
 # Future Of Technical Communications
 
 
@@ -17,3 +23,5 @@ Transformation and evolution are an inevitable part of progress. Technical commu
 The technical communications field is contributing to other areas such as development, training, marketing, etc. For example, many new writing tools are being developed for use by technical communicators which in turn provide an opportunity for the software industry.
 
 As long as industry, science, and technology are evolving there is always a need for simplifying, documenting, maintaining, and communicating information.  Thus making the future of technical communication  bright. 
+
+[back](../)
