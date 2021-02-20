@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## RoboHelp Quick Reference Guide Sample
 
 [back](../)
-
-Sample 1
 
 ![RoboHelp](/assets/img/Robo1.JPG)
 
