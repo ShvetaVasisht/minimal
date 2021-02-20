@@ -30,3 +30,5 @@ Learning,simplifying and sharing technical knowledge - a continuous journey.
    - [YAML - Beginner's Guide to get started](./samples/write-yaml.md)
 
    - [Article](./samples/respectful_code_reviews.md)
+
+   - [A2](./samples/respectful_code_reviews.md)
