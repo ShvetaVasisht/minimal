@@ -4,7 +4,7 @@ layout : default
 
 ### About Me
 
-Learning,simplifying and sharing technical knowledge.
+Learning,simplifying and sharing technical knowledge - a continuous journey.
 
 ### Experience
 
