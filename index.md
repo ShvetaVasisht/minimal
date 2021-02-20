@@ -29,6 +29,8 @@ Learning,simplifying and sharing technical knowledge - a continuous journey.
         
    - [YAML - Beginner's Guide to get started](./samples/write-yaml.md)
 
-   - [Article](./samples/respectful_code_reviews.md)
+   - [Respectful Code Reviews](./samples/respectful_code_reviews.md)
 
-   - [A2](./samples/FutureOfTC.md)
+   - [Future Of Technical Commmunication](./samples/FutureOfTC.md)
+
+   - [Software Installation Guide Sample](./samples/FutureOfTC.md)
