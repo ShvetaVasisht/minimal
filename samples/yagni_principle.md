@@ -1,33 +1,3 @@
-﻿---
-slug: yagni-principle
-
-stages: 
-  - development
-
-short_description: YAGNI ('You aren't gonna need it') principle prevents a programmer from adding unnecessary features to the code.
-
-tags: 
-  - complexity
-  - code
-  - quality
-  - cost
-  - features
-  - unnecessary
-
-
-keywords: 
-  - YAGNI
-  - extreme
-  - programming
-  - principle
-  - XP
-  - complexity
-  
----
-covered_by_dx_scanner: false 
-
----
-
 # YAGNI Principle
 
 **TL;DR**
@@ -39,7 +9,7 @@ YAGNI stands for 'You aren't gonna need it'. This principle states that only the
 
 YAGNI is an extreme programming principle (XP) which states that you must not implement features that you think may be needed in the future. Only those functionalities should be implemented which are needed as per current requirements. 
 
-![YAGNI Principle](/files/yagni_principle.jpg) 
+![YAGNI Principle](/assets/img/yagni_principle.jpg) 
 [YAGNI Principle](http://www.agilenutshell.com/yagni)
 
 
