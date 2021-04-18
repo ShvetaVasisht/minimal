@@ -31,8 +31,12 @@ Learning and knowledge sharing - a continuous journey.
         
    - [YAML - Beginner's Guide to get started](./samples/write-yaml.md)
 
-   - [Respectful Code Reviews](./samples/respectful_code_reviews.md)
-
    - [Future Of Technical Commmunication](./samples/FutureOfTC.md)
 
    - [Software Installation Guide Sample](./samples/software_install_guide.md)
+
+   - [Respectful Code Reviews](./samples/respectful_code_reviews.md)
+
+   - [YAGNI Principle](./samples/yagni_principles.md)
+
+
