@@ -53,3 +53,5 @@ You should plan for the effort required and if it will be better to do it at pre
 - [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - [YAGNI](https://deviq.com/principles/yagni)
 - [Software Design Principles DRY, KISS, YAGNI](https://www.c-sharpcorner.com/article/software-design-principles-dry-kiss-yagni/)
+
+**This article was contributed to DXHeroes/knowledge-base-content on gitHub**
