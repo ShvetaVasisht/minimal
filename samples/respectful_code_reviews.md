@@ -66,6 +66,8 @@ As a developer, you should read the comments keeping in mind that review comment
 - [Respectful Code Reviews](https://chromium.googlesource.com/chromium/src/+/master/docs/cr_respect.md)
 - [Code Reviews Done Right: Your Missing Guideline](https://quickbirdstudios.com/blog/code-review-best-practices-guidelines/)
 
+**This article was contributed to DXHeroes/knowledge-base-content on gitHub**
+
 [back](../)
 
 
