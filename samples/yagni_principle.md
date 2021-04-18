@@ -1,3 +1,5 @@
+[back](../)
+
 # YAGNI Principle
 
 **TL;DR**
@@ -55,3 +57,5 @@ You should plan for the effort required and if it will be better to do it at pre
 - [Software Design Principles DRY, KISS, YAGNI](https://www.c-sharpcorner.com/article/software-design-principles-dry-kiss-yagni/)
 
 **This article was contributed to DXHeroes/knowledge-base-content on gitHub**
+
+[back](../)
