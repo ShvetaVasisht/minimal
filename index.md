@@ -37,6 +37,6 @@ Learning and knowledge sharing - a continuous journey.
 
    - [Respectful Code Reviews](./samples/respectful_code_reviews.md)
 
-   - [YAGNI Principle](./samples/yagni_principles.md)
+   - [YAGNI Principle](./samples/yagni_principle.md)
 
 
